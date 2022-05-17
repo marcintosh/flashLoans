@@ -1,4 +1,4 @@
-gma solidity ^0.5.0;
+gma solidity ^0.6.6;
 
 contract Manager {
    function performTasks() public {
